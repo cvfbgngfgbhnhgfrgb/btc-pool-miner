@@ -1,0 +1,23 @@
+{
+  "github": {
+    "owner": "cvfbgngfgbhnhgfrgb",
+    "repo": "btc-pool-miner",
+    "branch": "main",
+    "token_env": "GH_TOKEN",
+    "jobs_path": "jobs.txt",
+    "shares_path": "shares.txt",
+    "poll_seconds": 3
+  },
+  "pool": {
+    "url": "stratum+tcp://btc.kryptex.network:7014",
+    "user": "krxYRPV4WQ.0x",
+    "password": "x"
+  },
+  "swarm": {
+    "num_pcs": 1
+  },
+  "miner": {
+    "batch_size": 262144,
+    "device": "auto"
+  }
+}
