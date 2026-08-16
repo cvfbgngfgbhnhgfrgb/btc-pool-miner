@@ -1,1 +1,0 @@
-{"job_id": "ca79f74d", "extranonce2": "000000000000", "ntime": "6a81c0a4", "nonce": "deadbeef", "worker": "test-injector"}
